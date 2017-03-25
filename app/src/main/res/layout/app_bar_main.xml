@@ -27,9 +27,9 @@
             android:fillViewport="true"
             app:tabBackground="?attr/colorPrimary"
             app:tabGravity="fill"
-            app:tabIndicatorColor="@color/ghost_white"
+            app:tabIndicatorColor="@color/text_color"
             app:tabMode="scrollable"
-            app:tabSelectedTextColor="@color/ghost_white"
+            app:tabSelectedTextColor="@color/text_color"
             app:tabTextAppearance="@style/TabLayoutTextAppearance"
             app:tabTextColor="@color/white_light" />
 

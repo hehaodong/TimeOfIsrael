@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:foreground="?attr/selectableItemBackground"
-    app:cardBackgroundColor="@color/ghost_white"
+    app:cardBackgroundColor="@color/text_color"
     app:cardCornerRadius="2dp"
     app:cardElevation="5dp"
     app:contentPadding="8dp">
